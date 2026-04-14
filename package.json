@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lb-01/loe-calculator/master-module.git"
+    "url": "git+https://github.com/@lb-01/loe-calculator/master-module.git"
   },
   "keywords": [
     "module"
@@ -23,9 +23,9 @@
   "author": "LOE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/@lb/loe-calculator/master-module/issues"
+    "url": "https://github.com/@lb-01/loe-calculator/master-module/issues"
   },
-  "homepage": "https://github.com/@lb/loe-calculator/master-module#readme",
+  "homepage": "https://github.com/@lb-01/loe-calculator/master-module#readme",
   "devDependencies": {
     "@vitest/coverage-v8": "^2.1.8",
     "eslint": "^9.39.1",
