@@ -1,5 +1,5 @@
 {
-  "name": "@lb/loe-calculator",
+  "name": "@lb-01/loe-calculator",
   "version": "1.0.0",
   "description": "NodeJS module",
   "main": "lib/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/@lb/loe-calculator/master-module.git"
+    "url": "git+https://github.com/lb-01/loe-calculator/master-module.git"
   },
   "keywords": [
     "module"
